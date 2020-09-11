@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "name": "xm",
+        "value": 2
+      },
+      {
+        "name": "xh",
+        "value": 3
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "pageSize": 12,
+      "total": 100
+    }
+  }
+}
